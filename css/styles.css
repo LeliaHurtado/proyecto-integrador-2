@@ -39,7 +39,8 @@ main {
 h1{
     /* font-size: 48px; */
     font-size: 36px;
-    text-align: center;
+    text-align: left;
+    
 }
 
 h2{
